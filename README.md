@@ -1,10 +1,10 @@
 # nekiya
 
-BYOVD kernel-operations toolkit.
+BYOVD kernel-operations research toolkit.
 
 ![tool](screenshots/tool.png)
 
-Loads a signed vulnerable driver and uses its kernel read/write primitive to perform DKOM process hiding, token manipulation, telemetry disablement, and endpoint protection teardown — single run, no reboot.
+Loads a signed vulnerable driver and uses its kernel read/write primitive to perform DKOM process hiding, token manipulation, telemetry disablement, and endpoint protection teardown 
 
 ## Capabilities
 
@@ -157,5 +157,5 @@ nekiya/
 │   └── lsapi/
 └── out/
     ├── nekiya.exe
-    └── nekiya-lab.exe
+   
 ```
