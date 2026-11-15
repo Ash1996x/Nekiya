@@ -155,7 +155,5 @@ nekiya/
 │   └── ft_util.c
 ├── vendor/
 │   └── lsapi/
-└── out/
-    ├── nekiya.exe
-   
+
 ```
